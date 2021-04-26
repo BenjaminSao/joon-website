@@ -1,8 +1,11 @@
 @import "../../styles/variables";
 
-.custom-footer {
-    .social {
-        @include from($tablet) {
+.custom-footer 
+{
+    .social 
+    {
+        @include from($tablet) 
+        {
             display: flex;
             align-items: flex-end;
             justify-content: flex-end;
