@@ -1,7 +1,40 @@
 @import "./variables.scss";
 
-.has-background-black-1
+.has-background-primary
 {
-    background-color: $black-2;
+    background-color: $primary;
+    color: $black;
+}
+
+.has-background-primary-1
+{
+    background-color: $primary-1;
     color: white;
+}
+
+.has-background-secondary
+{
+    background-color: $secondary;
+    color: $black;
+}
+
+.has-background-secondary-1
+{
+    background-color: $secondary-1;
+    color: white;
+}
+
+.has-text-primary-1
+{
+    color: $primary-1;
+}
+
+.has-text-secondary
+{
+    color: $secondary;
+}
+
+.has-text-secondary-1
+{
+    color: $secondary-1;
 }
