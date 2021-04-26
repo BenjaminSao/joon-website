@@ -1,7 +1,7 @@
 {
-    "name": "personal-website",
+    "name": "joon-website",
     "version": "0.0.1",
-    "description": "Benjamin Saobuppha's Personal Website",
+    "description": "Joon-Yeob Lee Personal Website",
     "main": "src/server/server.js",
     "scripts": {
         "ts-compile": "tsc -p .",
